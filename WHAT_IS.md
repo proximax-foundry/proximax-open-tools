@@ -11,7 +11,7 @@ with our goal of reaching mass adoption of our technology.
 ## What sort of tools?
 Any tools that you think we should have build. If you do want something specific, we do have a few tasks/tools which myself and the 
 core development team that we think is necessary but any application/solution that you think we need will do. 
-Go to the Issues tab to check the existing tools in our backlog 
+Go to the [Issues tab](https://github.com/proximax-foundry/proximax-open-tools/issues) to check the existing tools in our backlog 
 
 ## Methodology and Approach?
 Hackaton style. You either come up with your own or just pick up something on the task list to build. Each will need to give an update daily 
