@@ -1,6 +1,6 @@
 # ProximaX Tools Team.
 
-## What is tools team?
+## What is a "tools" team?
 Simply put, this team will build tools on top of the ProximaX Platform.
 As you all are aware, ProximaX Sirius Platform consists of 4 different core layers - Chain, Storage, Streaming, and the Contracts. 
 Each with its own capabilities for build the next innovative web3/decentralized applications.
